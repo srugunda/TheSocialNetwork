@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377554148376",
+    "firebase_url": "https://thesocialnetwork-de339.firebaseio.com",
+    "project_id": "thesocialnetwork-de339",
+    "storage_bucket": "thesocialnetwork-de339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377554148376:android:01bcf0bb948d77f492f76d",
+        "android_client_info": {
+          "package_name": "com.example.thesocialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377554148376-vdkcfjc7lgpui7s4i9nfab46uh1jgv3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5TKDorRtgBzwAnpS6_ayIWKtrIPpD3CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377554148376-vdkcfjc7lgpui7s4i9nfab46uh1jgv3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
